@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT_Excel_Category</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c5f40ccb-372a-4253-a302-b4ee8a3f954e</testSuiteGuid>
+   <testCaseLink>
+      <guid>f580d1e7-3fc1-4e0d-8f8f-17842ca9109a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDriven_Testing/DataDriven_Testing_Excel_Category</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4a60e225-f254-48cf-9626-933169d724d7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DDT_Excel_Category</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4a60e225-f254-48cf-9626-933169d724d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>VisitDate</value>
+         <variableId>bddb844a-d95b-42af-9dae-76bcf8207c84</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4a60e225-f254-48cf-9626-933169d724d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Comment</value>
+         <variableId>6308b295-02c8-451b-b20c-3652d605e729</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
