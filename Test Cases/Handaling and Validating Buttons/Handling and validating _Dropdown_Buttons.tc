@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Handling and validating _Dropdown_Buttons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>172b8686-0b30-43d3-bee9-c6d7ba96e42e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b45c4d89-5c83-4904-9722-e1629b2ab155</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>b45c4d89-5c83-4904-9722-e1629b2ab155</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+</TestCaseEntity>
